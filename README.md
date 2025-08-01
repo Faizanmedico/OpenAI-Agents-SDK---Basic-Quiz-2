@@ -7,12 +7,6 @@
 - Feedback on correct and incorrect answers
 - Option to review answers at the end of the quiz
 
-## Installation
-
-To use this app, simply download or clone the repository to your local machine and open the index.html file in your web browser.
-
-Alternatively, you can also access the live demo of the app [here](https://rm-quiz-app.netlify.app/)
-
 ## How to use
 
 1. Click the "Start Quiz" button.
